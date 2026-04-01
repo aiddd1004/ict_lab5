@@ -14,6 +14,6 @@ def main():
     average_grade = calculate_average(grades)
     print(f"Group average grade: {average_grade}")
 
-
+ 
 if __name__ == "__main__":
     main()
