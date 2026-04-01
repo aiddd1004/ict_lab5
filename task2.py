@@ -39,7 +39,7 @@ def main():
             view_products(products)
         
         elif action == "quit":
-            print("Exiting product manager.")
+            print("Quitting program. ")
             break
         
         else:
